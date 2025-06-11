@@ -7,7 +7,7 @@
 
     <groupId>com.eduex.feeservice</groupId>
     <artifactId>fee-service</artifactId>
-    <version>1.0.0</version>
+    <version>dev-1</version>
     <packaging>jar</packaging>
     <name>Fee Management Service</name>
 
